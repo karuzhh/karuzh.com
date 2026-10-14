@@ -7,7 +7,7 @@
 **Building secure web platforms, business systems, SaaS products, POS/ERP solutions, and digital infrastructure.**
 
 [![Website](https://img.shields.io/badge/karuzh.com-Visit_Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://karuzh.com)
-[![GitHub](https://img.shields.io/badge/GitHub-15--74-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/15-74)
+[![GitHub](https://img.shields.io/badge/GitHub-15--74-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karuzhh/)
 
 **Duhok, Kurdistan Region, Iraq**
 
